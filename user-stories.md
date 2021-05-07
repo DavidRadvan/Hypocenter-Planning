@@ -2,7 +2,7 @@
 
 ## As a logged-out user
 
-I can see a list/map of the most recent earthquakes, colour coded by pager response. I can click on the earthquake I want, and it will take me to that earthquake's page. There I can see the epicenter on a google map, date and time, magnitude, depth, tsunami warning if applicable, estimated fatalities and economic damage, user comments sections, (STRETCH) News Tracker or Twitter feed.
+I can see a list/map of the most recent earthquakes, colour coded by pager response. I can click on the earthquake I want, and it will take me to that earthquake's page. There I can see the epicenter on a google map, date and time, magnitude, depth, tsunami warning if applicable, estimated fatalities and economic damage, rarity of earthquake, user comments sections, (STRETCH) News Tracker or Twitter feed.
 
 (STRETCH) mobile-responsive
 
